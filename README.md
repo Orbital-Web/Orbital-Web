@@ -28,5 +28,5 @@
 ![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 <br><p align="center">
-  <a href=""><img src="https://komarev.com/ghpvc/?username=Orbital-Web&color=blueviolet" /></a>
+  <a href="https://github.com/Orbital-Web"><img src="https://komarev.com/ghpvc/?username=Orbital-Web&color=blueviolet" /></a>
 </p>
