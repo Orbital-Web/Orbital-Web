@@ -1,4 +1,4 @@
-## Welcome! I'm Rei
+## Welcome! I'm Rei Meguro
 <img src="https://github.com/Orbital-Web/Orbital-Web/blob/73f25c7d41d01e1b68b15ad49596b68deb24aa29/Banner.png" alt="banner with logo and name"/>
 
 <a href="mailto:rmeguro@umich.edu">
