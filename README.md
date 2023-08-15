@@ -4,9 +4,6 @@
 <a href="mailto:rmeguro@umich.edu">
   <img src="https://img.shields.io/badge/Email-blueviolet?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
 </a>
-<a href="https://www.linkedin.com/in/rei-meguro-22946523b/">
-  <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
 <a href="https://stackoverflow.com/users/9984384/orbital">
   <img src="https://img.shields.io/badge/Stack_Overflow-blueviolet?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack_Overflow">
 </a>
