@@ -19,7 +19,7 @@
 ### Stats
 
 <div style="display: flex;" align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=orbital-web&theme=tokyonight&hide=contribs&show_icons=true&rank_icon=github" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=orbital-web&theme=tokyonight&hide=contribs&show_icons=true&rank_icon=percentile" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbital-web&layout=compact&theme=tokyonight" />
 </div>
 
