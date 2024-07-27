@@ -1,5 +1,5 @@
 ## Welcome! I'm Rei Meguro
-<img src="https://github.com/Orbital-Web/Orbital-Web/blob/73f25c7d41d01e1b68b15ad49596b68deb24aa29/Banner.png" alt="banner with logo and name"/>
+<div align="center"><img src="https://github.com/Orbital-Web/Orbital-Web/blob/73f25c7d41d01e1b68b15ad49596b68deb24aa29/Banner.png" alt="banner with logo and name" width="100%"/></div>
 
 <a href="mailto:rmeguro@umich.edu">
   <img src="https://img.shields.io/badge/Email-blueviolet?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
@@ -16,13 +16,12 @@
 
 <p>I'm a CS major who's main areas of interests are computer vision, AI game players (mainly boardgames but also fps), robotics, graphics, and simulations. I plan on making some of the "good" projects I've worked on public, and add more projects in the future. I also make piano arrangements of various songs and upload them to my Musescore and YouTube. </p><br>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+### Stats
+
+<div style="display: flex;" align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=orbital-web&theme=tokyonight&hide=contribs&show_icons=true&rank_icon=github" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbital-web&layout=compact&theme=tokyonight" />
+</div>
 
 <br><p align="center">
   <a href="https://github.com/Orbital-Web"><img src="https://komarev.com/ghpvc/?username=Orbital-Web&color=blueviolet" /></a>
