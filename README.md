@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/YouTube-blueviolet?style=flat-square&logo=youtube" alt="Musescore">
 </a>
 
-<p>I'm a CS major who's main areas of interests are computer vision, AI game players (mainly boardgames but also fps), robotics, graphics, and simulations. I plan on making some of the "good" projects I've worked on public, and add more projects in the future. I also make piano arrangements of various songs and upload them to my Musescore and YouTube. </p><br>
+<p>I'm a CS major who's mainly interested in supervised and reinforcement learning, computer vision, and AI automation (especially for board games and video games). I especially enjoy exploring the bounds of AI and my coding abilities to automate things around me.</p><br>
 
 ### Stats
 
