@@ -16,7 +16,7 @@
 
 <p>I'm a CS major who's mainly interested in supervised and reinforcement learning, computer vision, robotics, and AI automation (especially for board games and video games). I especially enjoy exploring the bounds of AI and my coding abilities to automate things around me, as well as recreating complex software and algorithms from scratch.</p><br>
 
-### Stats
+### Stats (Public Repo Only)
 
 <div style="display: flex;" align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=orbital-web&theme=tokyonight&show_icons=true&rank_icon=percentile" />
